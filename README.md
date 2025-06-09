@@ -9,9 +9,9 @@ It includes insights on monthly revenue, top-performing brands, and product cate
 - Data cleaning & visualization
 
 ## 📊 Dashboard Screenshot
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](sales_dashboard.jpg)
 
 ## 📁 Files Included
 - `SalesDashboard.pbix`: Power BI report file
 - `sales_cleaned.xlsx`: Cleaned data used in the dashboard
-- `sales_dashboard.png`: Preview image
+- `sales_dashboard.jpg`: Preview image
